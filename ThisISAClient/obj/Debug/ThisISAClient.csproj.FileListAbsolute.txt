@@ -1,0 +1,30 @@
+C:\Users\kotik\Desktop\GORIT\GraphicEditor\ThisISAClient\bin\Debug\ThisISAClient.exe.config
+C:\Users\kotik\Desktop\GORIT\GraphicEditor\ThisISAClient\bin\Debug\ThisISAClient.exe
+C:\Users\kotik\Desktop\GORIT\GraphicEditor\ThisISAClient\bin\Debug\ThisISAClient.pdb
+C:\Users\kotik\Desktop\GORIT\GraphicEditor\ThisISAClient\obj\Debug\ThisISAClient.csprojAssemblyReference.cache
+C:\Users\kotik\Desktop\GORIT\GraphicEditor\ThisISAClient\obj\Debug\ThisISAClient.Form1.resources
+C:\Users\kotik\Desktop\GORIT\GraphicEditor\ThisISAClient\obj\Debug\ThisISAClient.Properties.Resources.resources
+C:\Users\kotik\Desktop\GORIT\GraphicEditor\ThisISAClient\obj\Debug\ThisISAClient.csproj.GenerateResource.cache
+C:\Users\kotik\Desktop\GORIT\GraphicEditor\ThisISAClient\obj\Debug\ThisISAClient.csproj.CoreCompileInputs.cache
+C:\Users\kotik\Desktop\GORIT\GraphicEditor\ThisISAClient\obj\Debug\ThisISAClient.exe
+C:\Users\kotik\Desktop\GORIT\GraphicEditor\ThisISAClient\obj\Debug\ThisISAClient.pdb
+C:\Users\anayerameika\Desktop\GORIT\GraphicEditor\ThisISAClient\obj\Debug\ThisISAClient.csprojResolveAssemblyReference.cache
+C:\Users\anayerameika\Desktop\GORIT\GraphicEditor\ThisISAClient\obj\Debug\ThisISAClient.Properties.Resources.resources
+C:\Users\anayerameika\Desktop\GORIT\GraphicEditor\ThisISAClient\obj\Debug\ThisISAClient.csproj.GenerateResource.cache
+C:\Users\anayerameika\Desktop\GORIT\GraphicEditor\ThisISAClient\obj\Debug\ThisISAClient.csproj.CoreCompileInputs.cache
+C:\Users\anayerameika\Desktop\GORIT\GraphicEditor\ThisISAClient\obj\Debug\ThisISAClient.exe
+C:\Users\anayerameika\Desktop\GORIT\GraphicEditor\ThisISAClient\obj\Debug\ThisISAClient.pdb
+C:\Users\anayerameika\Desktop\GORIT\GraphicEditor\ThisISAClient\bin\Debug\ThisISAClient.exe.config
+C:\Users\anayerameika\Desktop\GORIT\GraphicEditor\ThisISAClient\bin\Debug\ThisISAClient.exe
+C:\Users\anayerameika\Desktop\GORIT\GraphicEditor\ThisISAClient\bin\Debug\ThisISAClient.pdb
+C:\Users\anayerameika\Desktop\GORIT\GraphicEditor\ThisISAClient\obj\Debug\Client.Text_Editor.resources
+C:\Users\anayerameika\Desktop\Курсовая КСИС\Text_Editor\ThisISAClient\bin\Debug\ThisISAClient.exe.config
+C:\Users\anayerameika\Desktop\Курсовая КСИС\Text_Editor\ThisISAClient\bin\Debug\ThisISAClient.exe
+C:\Users\anayerameika\Desktop\Курсовая КСИС\Text_Editor\ThisISAClient\bin\Debug\ThisISAClient.pdb
+C:\Users\anayerameika\Desktop\Курсовая КСИС\Text_Editor\ThisISAClient\obj\Debug\ThisISAClient.csprojResolveAssemblyReference.cache
+C:\Users\anayerameika\Desktop\Курсовая КСИС\Text_Editor\ThisISAClient\obj\Debug\ThisISAClient.Properties.Resources.resources
+C:\Users\anayerameika\Desktop\Курсовая КСИС\Text_Editor\ThisISAClient\obj\Debug\Client.Text_Editor.resources
+C:\Users\anayerameika\Desktop\Курсовая КСИС\Text_Editor\ThisISAClient\obj\Debug\ThisISAClient.csproj.GenerateResource.cache
+C:\Users\anayerameika\Desktop\Курсовая КСИС\Text_Editor\ThisISAClient\obj\Debug\ThisISAClient.csproj.CoreCompileInputs.cache
+C:\Users\anayerameika\Desktop\Курсовая КСИС\Text_Editor\ThisISAClient\obj\Debug\ThisISAClient.exe
+C:\Users\anayerameika\Desktop\Курсовая КСИС\Text_Editor\ThisISAClient\obj\Debug\ThisISAClient.pdb

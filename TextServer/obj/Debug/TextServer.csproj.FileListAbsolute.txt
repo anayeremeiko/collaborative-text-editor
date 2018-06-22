@@ -1,0 +1,7 @@
+C:\Users\anayerameika\Desktop\GORIT\GraphicEditor\GraphicServer\bin\Debug\TextServer.exe.config
+C:\Users\anayerameika\Desktop\GORIT\GraphicEditor\GraphicServer\bin\Debug\TextServer.exe
+C:\Users\anayerameika\Desktop\GORIT\GraphicEditor\GraphicServer\bin\Debug\TextServer.pdb
+C:\Users\anayerameika\Desktop\GORIT\GraphicEditor\GraphicServer\obj\Debug\TextServer.csprojResolveAssemblyReference.cache
+C:\Users\anayerameika\Desktop\GORIT\GraphicEditor\GraphicServer\obj\Debug\TextServer.csproj.CoreCompileInputs.cache
+C:\Users\anayerameika\Desktop\GORIT\GraphicEditor\GraphicServer\obj\Debug\TextServer.exe
+C:\Users\anayerameika\Desktop\GORIT\GraphicEditor\GraphicServer\obj\Debug\TextServer.pdb
